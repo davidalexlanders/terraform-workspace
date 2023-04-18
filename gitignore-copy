@@ -1,0 +1,29 @@
+# ignore all .txt files
+*txt
+
+
+# Key Terraform files to ignore
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info*
+*.gitignore*.tf
+
+
+# Log files
+.log
+
+# Directories
+.terraform/
+
+# SSH keys
+.pem
+
+# Backup files
+*.bak
+
+# Mac .DS_Store files
+.DS_Store
+
+# vscode files
+.vscode/
+
