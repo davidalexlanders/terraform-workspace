@@ -11,8 +11,9 @@
 *.gitignore*.tf
 
 
-# Log files
+# Ignore log files
 .log
+
 
 # Directories
 .terraform/
